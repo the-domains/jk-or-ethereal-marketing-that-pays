@@ -1,20 +1,4 @@
-name: 'JK | Ethereal marketing that pays'
-favicon: null
-layout_spectrum: 0.8120471488218755
-typography_spectrum: 0.4698346103541553
-title: Call it anything but marketing
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#3C493F'
@@ -22,8 +6,13 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.49166205059736967
-  lightness: 0.11434984183870256
-  saturation: 0.6430364286061376
-  rhythmicContrast: 0.22667191410437226
+  brandStrength: 0.657692
+  lightness: 0.114349
+  rhythmicContrast: 0.982692
+  saturation: 0.799038
+cta: {}
+layout_spectrum: 1
+name: 'JK | Ethereal marketing that pays'
+opengraph: {}
 purpose: []
+typography_spectrum: 0.809615
