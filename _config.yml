@@ -6,10 +6,10 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.657692
+  brandStrength: 1
   lightness: 0.114349
   rhythmicContrast: 0.982692
-  saturation: 0.799038
+  saturation: 0.980769
 cta: {}
 layout_spectrum: 1
 name: 'JK | Ethereal marketing that pays'
